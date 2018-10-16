@@ -19,6 +19,7 @@ public class Main {
         translation.put("mouse", "мышь");
         translation.put("terrible", "знойно");
 
+
         System.out.println(
                 translation.containsKey("home"));
         System.out.println(
